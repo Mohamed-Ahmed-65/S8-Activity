@@ -1,6 +1,6 @@
 import express from 'express'
 import mongoose from 'mongoose'
-import { Product } from './shemas/product.js';
+import { Product } from './Schemas/product.js';
 
 
 const MONGODB_URI= "mongodb://localhost:27017/"
